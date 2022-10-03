@@ -1,0 +1,28 @@
+.container-fluid{
+    background-color: #B6D0E2;
+}
+
+.sectionLight {
+    background-color: #B6D0E2;
+    padding: 0;
+}
+
+.sectionDark {
+    background-color: #4682B4;
+    padding: 0;
+
+}
+
+.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.list-pad {
+    margin-bottom: 20px;
+}
+
+.btn-link {
+    display: block;
+    margin: auto;
+}
