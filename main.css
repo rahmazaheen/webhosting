@@ -1,5 +1,21 @@
-.container-fluid{
+.container-fluid {
     background-color: #B6D0E2;
+}
+
+@font-face {
+    font-family: logofont;
+    src: url('Aquire-BW0ox.otf');
+}
+
+h1 {
+    font-family: logofont, sans-serif;
+    font-size: 2000rem;
+}
+
+
+.jumbotron {
+    text-align: center;
+    background: none;
 }
 
 .sectionLight {
