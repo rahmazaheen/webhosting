@@ -7,11 +7,10 @@
     src: url('Aquire-BW0ox.otf');
 }
 
-h1 {
+.logo {
     font-family: logofont, sans-serif;
-    font-size: 2000rem;
+    font-size: 90px;
 }
-
 
 .jumbotron {
     text-align: center;
@@ -26,7 +25,6 @@ h1 {
 .sectionDark {
     background-color: #4682B4;
     padding: 0;
-
 }
 
 .imgCenter {
@@ -36,9 +34,14 @@ h1 {
 
 .list-pad {
     margin-bottom: 20px;
+    background-color: #B6D0E2;
 }
 
 .btn-link {
     display: block;
     margin: auto;
+}
+
+.email{
+    color: black;
 }
