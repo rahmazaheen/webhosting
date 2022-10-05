@@ -1,10 +1,19 @@
+html {
+    background-color: #B6D0E2;
+}
+
 .container-fluid {
     background-color: #B6D0E2;
 }
 
+
 @font-face {
     font-family: logofont;
     src: url('Aquire-BW0ox.otf');
+}
+
+.navbar {
+    background-color: #E5E4E2;
 }
 
 .logo {
@@ -40,8 +49,9 @@
 .btn-link {
     display: block;
     margin: auto;
+    color: black;
 }
 
-.email{
+.email {
     color: black;
 }
